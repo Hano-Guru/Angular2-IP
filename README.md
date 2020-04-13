@@ -35,4 +35,4 @@ This is an angular web application that allows users to search themselves or who
 
 
 ## License ([MIT License](   ))
-This project is licensed under the MIT Open Source license, (c) [Hanad Ahmed Abdi](  )
+This project is licensed under the MIT Open Source license, (c) [hanad ahmed](  )
