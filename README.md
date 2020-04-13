@@ -4,7 +4,7 @@ This is an angular web application that allows users to search themselves or who
 
 ## Author
 
--   Hanad Ahmed Abdi
+-  Hanad Ahmed Abdi
 
 ## Project Description
 
