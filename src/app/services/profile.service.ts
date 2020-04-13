@@ -6,9 +6,9 @@ import 'rxjs/add/operator/map'
 export class ProfileService {
 
   private username: string;
-  private clientid = ' 65371d654b8b984f6a35408a8e2c1ee460a8121f 
+  private clientid = "65371d654b8b984f6a35408a8e2c1ee460a8121f "
   ;
-  private clientsecret = 65371d654b8b984f6a35408a8e2c1ee460a8121
+  private clientsecret = "65371d654b8b984f6a35408a8e2c1ee460a8121"
 
   constructor(private http: Http) {
     console.log();
@@ -30,3 +30,4 @@ export class ProfileService {
   }
 
 }
+ 
